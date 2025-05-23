@@ -30,8 +30,3 @@
 </div>
 
 ###
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/MariFranca/MariFranca/output/snake.yml" alt="Snake animation" />
-
-###
